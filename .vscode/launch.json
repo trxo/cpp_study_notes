@@ -8,7 +8,7 @@
             "name": "(lldb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "enter program name, for example ${workspaceFolder}/a.out",
+            "program": "${workspaceFolder}/第二章从结构到类的演变/2.12演示string对象使用成员函数表示存储区间的例子/a.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
