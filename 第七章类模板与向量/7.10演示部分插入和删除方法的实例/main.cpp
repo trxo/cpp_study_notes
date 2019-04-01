@@ -22,6 +22,7 @@ int main()
     a.clear();
     cout << a.empty() << endl;
 }
+
 // a b c d e f g h i j 
 // 10,10
 // a b c d e f g h i W 
