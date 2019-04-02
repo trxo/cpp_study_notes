@@ -40,9 +40,9 @@ int main()
     Point *p = &c;
     cout << "area of Circle is " << p->area() << endl;
     Point &rc = c;
-    cout << "area of Circle is " << c.area() << endl;
+    cout << "area of Circle is " << rc.area() << endl;
 }
 // area of Point is 0
 // area of Circle is 19.6349
 // area of Circle is 0
-// area of Circle is 19.6349
+// area of Circle is 0
